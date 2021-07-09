@@ -1,6 +1,8 @@
-# Data_Science, Machine learning. Simple ways of working with Imbalanced data.
+If you can't open a Jupyter notebook on github, use nbviewer: 
 
+open https://nbviewer.jupyter.org/ then paste the link to the .ipynb notebook there.
 
+Alternatively, you can see the entire github repo using npviewer: https://nbviewer.jupyter.org/github/kyramichel/Data_Science/tree/master/
 
-PS: If you can't open a Jupyter notebook on github, use nbviewer:
-https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
+More @ https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
+
